@@ -1,6 +1,6 @@
 ### Hi there, I'm [Elegalaxy/Jordan!](https://www.linkedin.com/in/ze-kai-chong-1789591a3/) 👋
 
-- :triangular_ruler: I’m currently studying in University of Adelaide.
+- :triangular_ruler: I’m currently studying Bachelor of Computer Science in The University of Adelaide.
 - 💬 Very welcome to inbox me and make friend.
 - 📫 How to contact me: [zk.Chong0803@gmail.com](zk.Chong0803@gmail.com)
 - :zap: Social media: [Facebook](https://www.facebook.com/chong.z.kai/)
