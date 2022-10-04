@@ -3,7 +3,7 @@
 - :triangular_ruler: I’m currently studying Bachelor of Computer Science in The University of Adelaide.
 - 💬 Very welcome to inbox me and make friend.
 - 📫 How to contact me: [zk.Chong0803@gmail.com](zk.Chong0803@gmail.com)
-- :zap: Social media: [Facebook](https://www.facebook.com/chong.z.kai/), [Instagram](https://www.instagram.com/chong_zekai/)
+- :zap: Social media: [Facebook](https://www.facebook.com/chong.z.kai/) [Instagram](https://www.instagram.com/chong_zekai/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elegalaxy&hide=javascript,html,css)
 
